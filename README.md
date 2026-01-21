@@ -4,9 +4,8 @@
   </a>
 <h4 align="center">Full Stack Engineer at PT DOT Indonesia <a href="/">|</a> Technology Enthusiast <a href="/">|</a> Full Stack Engineer <a href="/"></h4>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Ahkdan&label=Profile%20views&color=0e75b6&style=flat" alt="Ahkdan"/>
-    <img src="https://img.shields.io/github/stars/Ahkdan?style=for-the-badge&logo=github&color=161b22&labelColor=7000FF&label=Bintang" />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ahkdan.Ahkdan&left_color=black&right_color=orange" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Anime" />
+   <a href="https://github.com/Ahkdan"><img src="https://img.shields.io/github/followers/Ahkdan?label=followers&style=social"/></a>
   </p>
 </div>
 
@@ -15,8 +14,7 @@
 ### Tentang Saya
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Anime" />
-   <a href="https://github.com/Ahkdan"><img src="https://img.shields.io/github/followers/Ahkdan?label=followers&style=social"/></a>
+
 </div>
 
 <p align="left">
